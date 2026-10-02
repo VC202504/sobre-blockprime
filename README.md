@@ -14,8 +14,6 @@ Indicador próprio para TradingView e robô de execução automática. O indicad
 - Gestão de risco em camadas: risco fixo por operação, limite de posições abertas, trava de perda diária e trailing stop
 - Relatórios de desempenho por ativo e por faixa de qualidade, usados para decidir o que o robô opera
 
-> Não é recomendação de investimento. Operar no mercado financeiro envolve risco de perda.
-
 ## Tecnologia
 
 Pine Script v6, Supabase (Edge Functions e PostgreSQL), Python, MetaTrader 5
